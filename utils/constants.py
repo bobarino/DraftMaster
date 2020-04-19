@@ -2,11 +2,14 @@
 MLB_GAMES_TABLE = 'MLB_Games'
 MLB_RANKINGS_TABLE = 'MLB_Rankings'
 MLB_BATTING_TABLE = 'MLB_Batting'
+MLB_PITCHING_TABLE = 'MLB_Pitching'
 
 
 #Start and End dates for statistics
 START_DATE = '2017-05-01'
 END_DATE = '2019-05-01'
+PITCHING_START_YEAR = 2018
+PITCHING_END_YEAR = 2019
 
 
 #Team Dictionaries
